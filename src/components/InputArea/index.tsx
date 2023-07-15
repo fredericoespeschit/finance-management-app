@@ -109,7 +109,7 @@ export const InputArea = ({ onAdd }: Props) => {
 
       <C.InputLabel>
         <C.InputTitle>&nbsp;</C.InputTitle>
-        <button onClick={handleAddEvent}>Adicionar</button>
+        <C.Button onClick={handleAddEvent}>Adicionar</C.Button>
       </C.InputLabel>
     </C.Container>
   );
