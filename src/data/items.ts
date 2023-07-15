@@ -12,5 +12,9 @@ export const items: Item[] = [
     { date: new Date(2023, 6, 19), category: 'salary', title: 'Salário ACME 3', value: 4500 },
 
     { date: new Date(2023, 6, 1), category: 'salary', title: 'Salário ACME 4', value: 4500 },
+
+    { date: new Date(2023, 6, 6), category: 'food', title: 'McDonalds', value: 32.12 },
+    { date: new Date(2023, 6, 15), category: 'rent', title: 'Aluguel Ap', value: 700 },
+
     { date: new Date(2023, 8, 18), category: 'salary', title: 'Salário ACME 6', value: 4500 },
 ];
